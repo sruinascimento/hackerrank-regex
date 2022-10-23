@@ -8,7 +8,6 @@ public class Challenge008MatchingCharactersRange {
         String target = "h4CkR";
         String regex = "^[a-z][1-9][^a-z][^A-Z][A-Z]$?";
         Matcher matcher = Pattern.compile(regex).matcher(target);
-
         System.out.println(matcher.find());
     }
 }

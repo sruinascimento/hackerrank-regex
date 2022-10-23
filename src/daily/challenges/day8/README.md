@@ -22,3 +22,4 @@ Write a RegEx that will match a string satisfying the following conditions:
 - The third character must not be a lowercase English alphabetic character.
 - The fourth character must not be an uppercase English alphabetic character.
 - The fifth character must be an uppercase English alphabetic character.
+
