@@ -1,1 +1,1 @@
-"# hackerrank-regex" 
+# hackerrank-regex
